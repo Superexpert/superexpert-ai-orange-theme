@@ -1,5 +1,5 @@
 import { registerTheme } from '@superexpert-ai/framework';
-import stylesOrange from 'orange.module.css';
+import stylesOrange from './orange.module.css';
 
 registerTheme({
     id: 'orange',
