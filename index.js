@@ -1,4 +1,4 @@
-import { registerTheme } from '@superexpert/superexpert-framework';
+import { registerTheme } from '@superexpert-ai/framework';
 import stylesOrange from 'orange.module.css';
 
 registerTheme({
