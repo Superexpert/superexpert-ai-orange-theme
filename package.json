@@ -1,5 +1,28 @@
 {
+  "name": "@superexpert-ai/orange-theme",
+  "version": "1.0.0",
+  "description": "test extending superexpert-ai with a custom theme",
+  "keywords": [
+    "superexpert-ai",
+    "theme"
+  ],
+  "homepage": "https://github.com/Superexpert/superexpert-ai-orange-theme#readme",
+  "bugs": {
+    "url": "https://github.com/Superexpert/superexpert-ai-orange-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superexpert/superexpert-ai-orange-theme.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@superexpert-ai/framework": "^0.1.0-alpha.0"
-  }
+  },
+  "devDependencies": {}
 }
