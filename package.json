@@ -1,6 +1,6 @@
 {
   "name": "@superexpert-ai/orange-theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test extending superexpert-ai with a custom theme",
   "keywords": [
     "superexpert-ai",
@@ -22,7 +22,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@superexpert-ai/framework": "^0.1.0-alpha.0"
-  },
-  "devDependencies": {}
+    "@superexpert-ai/framework": "^0.1.0-alpha.18"
+  }
 }
