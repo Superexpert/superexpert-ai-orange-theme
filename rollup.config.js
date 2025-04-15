@@ -12,7 +12,7 @@ export default {
   plugins: [
     postcss({
       modules: true, // Enable CSS modules
-      extract: true, // Extract CSS to a separate file
+      extract: false, // Extract CSS to a separate file
       minimize: true, // Minify the CSS
       sourceMap: true, // Enable source maps
     }),
